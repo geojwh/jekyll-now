@@ -7,8 +7,9 @@ This is my first blog post using Jekyll (jekyll-now repo). I'm using markdown in
 
 Here is a link to my personal site with some web development projects I've toyed with:
 
-![this is me!](http://johnwhaney.com/img/me.jpg)
 [johnwhaney.com](http://johnwhaney.com)
+
+![this is me!](http://johnwhaney.com/img/me.jpg)
 
 This was a cool test!
 ##cool
